@@ -1,2 +1,2 @@
-# firststep
-sample github stuff!
+# list of school stuff so far
+...
